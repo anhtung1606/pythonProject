@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin:0;
+}
+#profile{
+    background-color: #2596be;
+    text-align: center;
+    padding: 80px
+}
+nav{
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+}
+nav a {
+    color: white;
+    padding: 14px;20px
+    display: none;
+    float: left
+}
+nav a:hover{
+    background-color: #DDD;
+    color: black
+}
+normalize
+padding là bên trong nội dung, margin bên ngoài
